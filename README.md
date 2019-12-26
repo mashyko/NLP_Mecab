@@ -3,4 +3,4 @@ Japanese Language Processing: Mecab and Gensim
 
 日本語の構文解析に Mecab を使用します。
 
-Colab で作成したノートブックは、Google Colab で実行できます。
+Colab で作成したノートブックは、Google Colab で実行できます。ただし、このRepoに保存している文書を使用します。 
